@@ -1,76 +1,77 @@
-💫 About Me
+<h1 align="center">Hi 👋, I'm Arman Rakib</h1>
+<h3 align="center">🚀 Android Developer | Kotlin | Java | React Native</h3>
 
-👋 Hi, I’m Arman Rakib
-💼 Software Engineer (Android | Kotlin | Java | React Native)
-🏢 Currently working at Silicon Orchard Ltd
-📍 Dhaka, Bangladesh
+<p align="center">
+  <a href="https://github.com/ArmanRakib520">
+    <img src="https://komarev.com/ghpvc/?username=ArmanRakib520&label=Profile%20views&color=0e75b6&style=flat" alt="armanrakib" />
+  </a>
+  <a href="https://github.com/ArmanRakib520?tab=followers">
+    <img src="https://img.shields.io/github/followers/ArmanRakib520?label=Followers&style=social" alt="followers"/>
+  </a>
+</p>
 
-🚀 I’m an experienced Android Developer with 7+ years of professional expertise in building healthcare, e-commerce, IoT, and multimedia apps. Passionate about real-time applications, API integrations, secure payments, and clean UI/UX.
+---
 
-🔧 Tech Stack
+## 💫 About Me  
+- 🔭 I’m currently working at **Silicon Orchard Ltd**  
+- 🌱 Passionate about **real-time apps, APIs, secure payments & UI/UX**  
+- 💬 Ask me about **Android (Kotlin/Java), React Native**  
+- 📫 Reach me at **armanrakib520@gmail.com**  
 
-Languages: Java, Kotlin, JavaScript
+---
 
-Frameworks & Platforms: Android SDK, React Native, Cordova
+## 🔧 Tech Stack  
 
-UI/UX: Material Design, RecyclerView, Fragments
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" />
+</p>
 
-Backend & APIs: REST API, Retrofit2, WebSocket, WebRTC
+---
 
-Databases: SQLite, MySQL, Firebase (Firestore, Realtime DB)
+## 📱 Featured Projects  
 
-Tools: Android Studio, VS Code, GitHub, GitLab, Bitbucket
+- 🔹 [**Zaynax Health**](https://play.google.com/store/apps/details?id=zaynaxhealth.com) – Doctor booking, video consultation, payments & chat.  
+- 🔹 [**zDrop**](https://play.google.com/store/apps/details?id=com.zdrop.bd) – E-commerce with product listing, order tracking, and chat.  
+- 🔹 [**Meet Meena**](https://play.google.com/store/apps/details?id=org.unicef.meenagame) – UNICEF app for child awareness & education.  
+- 🔹 [**Poultry Manager**](https://play.google.com/store/apps/details?id=com.manufarms.poultrymanagerapp&hl=en) – IoT-based poultry farm management.  
 
-Other Skills: Google Maps API, Push Notifications, SSLCommerz, Payment Integration
+---
 
-📱 Featured Projects
-🔹 Zaynax Health
+## 🏆 Achievements & Certifications  
+- 🥇 **Employee of the Month** – Zaynax Health (July 2022)  
+- 📜 Google Certifications: *Mobile Sites, Ads, Analytics IQ*  
+- 🎤 Trainer for Government ICT Projects (*SDMGA, TQI II, E-shop Project*)  
 
-Healthcare app with doctor appointment booking, video/audio consultation, chat, and secure payments.
+---
 
-🔹 zDrop
+## 🌐 Connect with Me  
 
-E-commerce app with product listing, buyer-seller chat, order tracking, and online payments.
+<p align="center">
+  <a href="mailto:armanrakib520@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/arman-rakib-045ba1167/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/ArmanRakib520"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://bold.pro/my/arman-rakib/678r"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+</p>
 
-🔹 Meet Meena
+---
 
-Educational app developed with UNICEF to promote social awareness among children.
+## 📊 GitHub Stats  
 
-🔹 Poultry Manager
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArmanRakib520&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmanRakib520&layout=compact&theme=tokyonight" height="180em"/>
+</p>
 
-IoT-based app integrating AI devices for poultry farm management.
+---
 
-🏆 Achievements & Activities
+## 🐍 Contribution Snake  
+![snake gif](https://github.com/ArmanRakib520/ArmanRakib520/blob/output/github-contribution-grid-snake.svg)
 
-🥇 Employee of the Month – Zaynax Health (July 2022)
-
-📜 Certifications: Google Mobile Sites, Google Ads, Google Analytics IQ
-
-🎤 Trainer in Government ICT projects (SDMGA, TQI II, E-shop Project)
-
-🌐 Connect with Me
-
-📧 Email: armanrakib520@gmail.com
-
-💼 LinkedIn: linkedin.com/in/arman-rakib-045ba1167
-
-🌍 Portfolio: Bold Profile
-
-💻 GitHub: github.com/ArmanRakib520
-
-📊 GitHub Stats
-
-<!--
-**ArmanRakib520/ArmanRakib520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
